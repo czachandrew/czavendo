@@ -1,0 +1,59 @@
+/* Vending machine container */
+.machine {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  width: 80%;
+  height: 600px;
+  background-color: #f7fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+/* Vending machine header */
+.machineheader {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Vending machine body */
+.machinebody {
+  display: grid; /* Change this line */
+  height: 100%;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 10px; /* Add this line */
+  justify-content: center; /* Add this line */
+}
+
+.items {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  justify-content: center;
+}
+
+/* Vending machine buttons */
+.machinebutton {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  background-color: #4a5568;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%; /* Add this line */
+}
+
+/* Vending machine footer */
+.machinefooter {
+  font-size: 14px;
+  margin-top: 20px;
+}

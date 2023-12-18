@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Coca-Cola",
+    "description": "Refreshing soda",
+    "type": "beverage",
+    "location_1": "Garage Fridge",
+    "location_2": "Top",
+    "image": "coke.jpg",
+    "quantity": 5
+  },
+  {
+    "id": "2",
+    "name": "Pizza",
+    "description": "Delicious cheesy pizza",
+    "type": "food",
+    "location_1": "Kitchen Fridge",
+    "location_2": "Middle",
+    "image": "pizza.jpg",
+    "quantity": 2
+  },
+  {
+    "id": "3",
+    "name": "Batteries",
+    "description": "AA batteries",
+    "type": "other",
+    "location_1": "Pantry",
+    "location_2": "Bottom",
+    "image": "batteries.jpg",
+    "quantity": 10
+  },
+  {
+    "id": "4",
+    "name": "Orange Juice",
+    "description": "Freshly squeezed orange juice",
+    "type": "beverage",
+    "location_1": "Kitchen Fridge",
+    "location_2": "Top",
+    "image": "orange_juice.jpg",
+    "quantity": 3
+  },
+  {
+    "id": "5",
+    "name": "Chips",
+    "description": "Crunchy potato chips",
+    "type": "food",
+    "location_1": "Kitchen Cabinet",
+    "location_2": "Middle",
+    "image": "chips.jpg",
+    "quantity": 4
+  },
+  {
+    "id": "6",
+    "name": "Paper Towels",
+    "description": "Absorbent paper towels",
+    "type": "other",
+    "location_1": "Pantry",
+    "location_2": "Top",
+    "image": "paper_towels.jpg",
+    "quantity": 6
+  },
+  {
+    "id": "7",
+    "name": "Water",
+    "description": "Bottled water",
+    "type": "beverage",
+    "location_1": "Garage Fridge",
+    "location_2": "Bottom",
+    "image": "water.jpg",
+    "quantity": 8
+  },
+  {
+    "id": "8",
+    "name": "Ice Cream",
+    "description": "Creamy ice cream",
+    "type": "food",
+    "location_1": "Kitchen Freezer",
+    "location_2": "Middle",
+    "image": "ice_cream.jpg",
+    "quantity": 2
+  },
+  {
+    "id": "9",
+    "name": "Light Bulbs",
+    "description": "LED light bulbs",
+    "type": "other",
+    "location_1": "Pantry",
+    "location_2": "Bottom",
+    "image": "light_bulbs.jpg",
+    "quantity": 12
+  },
+  {
+    "id": "10",
+    "name": "Milk",
+    "description": "Fresh milk",
+    "type": "beverage",
+    "location_1": "Kitchen Fridge",
+    "location_2": "Top",
+    "image": "milk.jpg",
+    "quantity": 1
+  }
+]
